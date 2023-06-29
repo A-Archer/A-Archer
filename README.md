@@ -1,16 +1,26 @@
-### Hello World
+# 🌟 Hello Wonderful People 🌟
 
-<!--
-**A-Archer/A-Archer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is _Adrian Archer_ and I'm a computer science and applied math double major at Johns Hopkins University! I'm 
+ecstatic for the journey that awaits as I pursue my numerous interests in professional and personal settings and I hope
+each and every one of you can join for the ride!
 
-Here are some ideas to get you started:
+### Interests 🙋‍♂️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-_Machine Learning_
+-_Artificial Intelligence_
+-_Data Science_
+-_Systems Design_
+
+### Keeping It Professional 🤵
+
+-[LinkedIn](www.linkedin.com/in/adrian-archer1)
+-Resume
+[Download PDF]()
+
+
+I hope to see you all around, happy coding!
+
+###
+
+
+
