@@ -6,16 +6,15 @@ each and every one of you can join for the ride!
 
 ### Interests 🙋‍♂️
 
--_Machine Learning_
--_Artificial Intelligence_
--_Data Science_
--_Systems Design_
+- _Machine Learning_
+- _Artificial Intelligence_
+- _Data Science_
+- _Systems Design_
 
 ### Keeping It Professional 🤵
 
--[LinkedIn](www.linkedin.com/in/adrian-archer1)
--Resume
-[Download PDF]()
+- [LinkedIn](www.linkedin.com/in/adrian-archer1)
+- [Resume](file:///Users/archear1/Downloads/Adrian_Archer_Resume%20(1).pdf)
 
 
 I hope to see you all around, happy coding!
