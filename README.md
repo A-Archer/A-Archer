@@ -14,7 +14,7 @@ each and every one of you can join for the ride!
 ### Keeping It Professional 🤵
 
 - [LinkedIn](www.linkedin.com/in/adrian-archer1)
-- [Resume](file:///Users/archear1/Downloads/Adrian_Archer_Resume%20(1).pdf)
+- [Resume](https://github.com/A-Archer/A-Archer/blob/a2cb9cea1f10f4487db63ef4bf7618eda7759f60/Adrian_Archer_Resume.pdf)
 
 
 I hope to see you all around, happy coding!
