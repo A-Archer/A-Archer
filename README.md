@@ -14,7 +14,7 @@ each and every one of you can join for the ride!
 ## Keeping It Professional 🤵
 
 - [LinkedIn](https://linkedin.com/in/adrian-archer1)
-- [Resume](https://github.com/A-Archer/A-Archer/blob/main/A_Archer_Resume.pdf)
+- [Resume](https://github.com/A-Archer/A-Archer/blob/main/Adrian_Archer.pdf)
 
 
 ## Languages 💻
