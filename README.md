@@ -1,4 +1,4 @@
-# Hello Evertibe
+# Hello Everyone
 
 My name is _Adrian Archer_ and I'm a computer science and applied math double major at Johns Hopkins University! I'm 
 ecstatic for the journey that awaits as I pursue my numerous interests in professional and personal settings and I hope
